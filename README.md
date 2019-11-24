@@ -1,2 +1,2 @@
 # ZCU111
-Applications development of Xilinx ZCU111 Evaluation Board.
+Application development of the Xilinx ZCU111 evaluation board.
