@@ -35,4 +35,4 @@
 <p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/readme-edits/pic/Export_Hardware.png"  title="Export hardware, include bitstream" width="50%"></p>
 
 #### 11. 主選單File/Launch SDK，開啟SDK軟體來寫PS的程式碼。
-<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/readme-edits/pic/Launch_SDK.png" title="Launch SDK" width="50%"></p>
+<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/readme-edits/pic/Launch_SDK.png" title="Launch SDK" width="20%"></p>
