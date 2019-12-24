@@ -38,21 +38,21 @@
 <p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/master/pic/Launch_SDK.png" title="Launch SDK" width="20%"></p>
 
 #### 12. 步驟11結束後會開啟SDK2019.1，以下操作都在SDK軟體中，首先會看到左方Project Explorer會有步驟10匯出的資料夾，內容名稱不見得一樣。
-<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/SDK-steps/pic/SDK_Main_Page.png" title="SDK Main Page" width="50%"></p>
+<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/master/pic/SDK_Main_Page.png" title="SDK Main Page" width="50%"></p>
 
 #### 13. 按組合鍵SHIFT+ALT+N，在資料夾上會跑出選單，選擇Application Project，填寫應用程式的名稱，並按Next>。
-<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/SDK-steps/pic/Applications_Project_Setting.png" title="Applications Project Setting Page" width="50%"></p>
+<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/master/pic/Applications_Project_Setting.png" title="Applications Project Setting Page" width="50%"></p>
 
 #### 14. 選擇Empty Application，並按Finish。
-<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/SDK-steps/pic/Empty_Applications.png" title="Empty Application" width="40%"></p>
+<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/master/pic/Empty_Applications.png" title="Empty Application" width="40%"></p>
 
 #### 15. 在所建立的Application Project資料夾裡找到src資料夾，點滑鼠右鍵New一個File取名為main.c。
-<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/SDK-steps/pic/Create_C_File.png" title="Create C File" width="60%"></p>
+<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/master/pic/Create_C_File.png" title="Create C File" width="60%"></p>
 
 #### 16. 可以開始寫PS的程式。
 
 #### 17. 電腦連上FPGA(Jtag)，燒bit檔案到FPGA，Xilinx/Program FPGA，按下Program便會開始燒錄。
-<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/SDK-steps/pic/Program_FPGA.png" title="Program FPGA" width="60%"></p>
+<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/master/pic/Program_FPGA.png" title="Program FPGA" width="60%"></p>
 
 #### 18. 在Application Project資料夾上點滑鼠右鍵，在Run As找到Launch on Hardware(GDB)，點擊就會開始燒入PS程式，並由ZCU111的CPU執行。
-<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/SDK-steps/pic/Hardware_GDB.png" title="Launch on Hardware(GDB)" width="40%"></p>
+<p align=center><img src="https://github.com/weirenxue/zcu111-EMIO/blob/master/pic/Hardware_GDB.png" title="Launch on Hardware(GDB)" width="40%"></p>
